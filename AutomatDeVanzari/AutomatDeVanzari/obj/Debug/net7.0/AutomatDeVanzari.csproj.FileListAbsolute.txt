@@ -1,0 +1,15 @@
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\bin\Debug\net7.0\AutomatDeVanzari.exe
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\bin\Debug\net7.0\AutomatDeVanzari.deps.json
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\bin\Debug\net7.0\AutomatDeVanzari.runtimeconfig.json
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\bin\Debug\net7.0\AutomatDeVanzari.dll
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\bin\Debug\net7.0\AutomatDeVanzari.pdb
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.csproj.AssemblyReference.cache
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.AssemblyInfoInputs.cache
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.AssemblyInfo.cs
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.dll
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\refint\AutomatDeVanzari.dll
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.pdb
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\AutomatDeVanzari.genruntimeconfig.cache
+C:\Users\bogda\source\Tema General\AutomatDeVanzari\AutomatDeVanzari\obj\Debug\net7.0\ref\AutomatDeVanzari.dll
